@@ -47,16 +47,16 @@ msgid "Copy fro&m Right"
 msgstr "從右邊複製(&M)"
 
 msgid "Copy Selected Line(s) to Right"
-msgstr ""
+msgstr "複製選定行到右邊"
 
 msgid "Copy Selected Line(s) to Left"
-msgstr ""
+msgstr "複製選定行到左邊"
 
 msgid "Copy Selected Line(s) from Left"
-msgstr ""
+msgstr "複製左邊的選定行"
 
 msgid "Copy Selected Line(s) from Right"
-msgstr ""
+msgstr "複製右邊的選定行"
 
 #, c-format
 msgid "Select Line &Difference\tF4"
@@ -116,10 +116,10 @@ msgid "&With..."
 msgstr "用(&W)..."
 
 msgid "Open &Parent Folder..."
-msgstr ""
+msgstr "開啟(&P)上層文件夾"
 
 msgid "S&hell Menu"
-msgstr ""
+msgstr "層式選單(&H)"
 
 #, c-format
 msgid "View &Differences"
@@ -141,10 +141,10 @@ msgid "&None"
 msgstr "關閉(&N)"
 
 msgid "&Vertical"
-msgstr ""
+msgstr "垂宜(&V)"
 
 msgid "&Horizontal"
-msgstr ""
+msgstr "水平(H)"
 
 #, c-format
 msgid "&Previous Page"
@@ -159,16 +159,16 @@ msgid "&Active Pane"
 msgstr "啟動框(&A)"
 
 msgid "Rotate &Right 90deg"
-msgstr ""
+msgstr "右旋90度(&R)"
 
 msgid "Rotate &Left 90deg"
-msgstr ""
+msgstr "左旋90度(&L)"
 
 msgid "Flip V&ertically"
-msgstr ""
+msgstr "重直翻轉(&E)"
 
 msgid "Flip H&orizontally"
-msgstr ""
+msgstr "水平翻轉(&O)"
 
 #, c-format
 msgid "&Zoom"
@@ -474,28 +474,28 @@ msgstr "顯示二進制檔案(&H)"
 
 #, c-format
 msgid "&3-way Compare"
-msgstr ""
+msgstr "三方比較(&3)"
 
 #, c-format
 msgid "Show &Left Only Different Items"
-msgstr ""
+msgstr "只顯示左邊不同的項目(L)"
 
 #, c-format
 msgid "Show &Middle Only Different Items"
-msgstr ""
+msgstr "只顯示中間不同的項目(M)"
 
 #, c-format
 msgid "Show &Right Only Different Items"
-msgstr ""
+msgstr "只顯示右邊不同的項目(R)"
 
 msgid "Show L&eft Only Missing Items"
-msgstr ""
+msgstr "只顯示左邊缺少的項目(E)"
 
 msgid "Show Mi&ddle Only Missing Items"
-msgstr ""
+msgstr "只顯示中間缺少的項目(D)"
 
 msgid "Show Rig&ht Only Missing Items"
-msgstr ""
+msgstr "只顯示右邊缺少的項目(H)"
 
 #, c-format
 msgid "Show Hidd&en Items"
@@ -760,7 +760,7 @@ msgid "&Toggle All and 0-9 Lines\tCtrl+D"
 msgstr "切換全部行和 0-9 行(&T)\tCtrl+D"
 
 msgid "&Invert (Hide Different Lines)"
-msgstr ""
+msgstr "顛倒(隱藏不同的行)"
 
 #, c-format
 msgid "&Lock Panes"
@@ -771,7 +771,7 @@ msgid "&View Whitespace"
 msgstr "檢視空白和跳格(&V)"
 
 msgid "View E&OL"
-msgstr ""
+msgstr "檢視 E&OL"
 
 #, c-format
 msgid "Vie&w Line Differences"
@@ -920,14 +920,14 @@ msgid "Comp&are"
 msgstr "比較(&A)"
 
 msgid "Compare in new &window"
-msgstr ""
+msgstr "在新視窗中比較"
 
 msgid "Compare Non-hor&izontally..."
-msgstr ""
+msgstr "非水平地比較&I"
 
 #, c-format
 msgid "Compare Non-hor&izontally"
-msgstr "非同步比較(&I)"
+msgstr "非水平地比較(&I)"
 
 #, c-format
 msgid "First &left item with second left item"
@@ -1168,7 +1168,7 @@ msgid "Ignore codepage &differences"
 msgstr "忽略代碼頁不同(&D)"
 
 msgid "Ignore c&omment differences"
-msgstr ""
+msgstr "忽略評論的不同(&O)"
 
 #, c-format
 msgid "&Include Subfolders"
@@ -1286,7 +1286,7 @@ msgid "Se&lect..."
 msgstr ""
 
 msgid "Co&mpare"
-msgstr ""
+msgstr "比較(&M)"
 
 #, c-format
 msgid "Cancel"
@@ -3452,10 +3452,10 @@ msgid "Text files are different"
 msgstr "文字檔內容不同"
 
 msgid "Image files are identical"
-msgstr ""
+msgstr "圖像檔內容相同"
 
 msgid "Image files are different"
-msgstr ""
+msgstr "圖像檔內容不同"
 
 #, c-format
 msgid "Elapsed time: %ld ms"
@@ -3599,10 +3599,10 @@ msgid "Shows an asterisk (*) if the file is binary."
 msgstr "是二進制檔，就顯示星號 (*)"
 
 msgid "Unpacker plugin name or pipeline."
-msgstr ""
+msgstr "解開插件名稱或途徑"
 
 msgid "Prediffer plugin name or pipeline."
-msgstr ""
+msgstr "區分插件名稱或途徑"
 
 #, c-format
 msgid "Compare %1 with %2"
@@ -3641,7 +3641,7 @@ msgid "The report has been created successfully."
 msgstr "成功產生報告。"
 
 msgid "Cannot add a synchronization point at this line."
-msgstr ""
+msgstr "無法在本行中加入同步點"
 
 #, c-format
 msgid "The same file is opened in both panels."
@@ -3701,10 +3701,10 @@ msgid "Do you want to move to the previous page?"
 msgstr "你想要移動到上一頁嗎？"
 
 msgid "Do you want to move to the first file?"
-msgstr ""
+msgstr "你要移動到第一支檔案?"
 
 msgid "Do you want to move to the last file?"
-msgstr ""
+msgstr "你要移動到最後一支檔案?"
 
 #, c-format
 msgid "Different codepages found in left (cp%d) and right (cp%d) files.\nDisplaying each file in its codepage will give a better display but merging/copying will be dangerous.\nWould you like to treat both files as being in the default Windows codepage (recommended)?"
@@ -3781,10 +3781,10 @@ msgid "Patch file successfully written."
 msgstr "補綴檔成功寫入。"
 
 msgid "1. item is not found!"
-msgstr ""
+msgstr "1. 項目不存在!"
 
 msgid "2. item is not found!"
-msgstr ""
+msgstr "2. 項目不存在!"
 
 #, c-format
 msgid "The patch file already exists. Do you want to overwrite it?"
@@ -3829,7 +3829,7 @@ msgid ""
 msgstr ""
 "請先儲存所有檔案。\n"
 "\n"
-"建補綴檔前得先儲存檔內所有異動。"
+"建修訂檔之前請先儲存檔內所有異動。"
 
 #, c-format
 msgid "Folder does not exist."
@@ -3871,7 +3871,7 @@ msgid ""
 "\n"
 "Do you want to continue?"
 msgstr ""
-"將關閉許多比較視窗。\n"
+"將關閉多個比較視窗。\n"
 "\n"
 "要繼續嗎？"
 
